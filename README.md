@@ -20,7 +20,7 @@ I'm passionate about creating seamless web experiences and exploring the latest 
 
 ## 🔗 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mahammad-irshad-30b10a25a/)
-- - Twitter: [Your Twitter](https://twitter.com/@mhd_irshad07)
+- Twitter: [Your Twitter](https://twitter.com/@mhd_irshad07)
 - Website: [Your Website](https://mahammad-irshad.vercel.app/)
 - Email: mahammadirshad035@gmail.com
 
