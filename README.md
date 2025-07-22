@@ -4,7 +4,7 @@
 
 - 💡 I love to BUILD, SHIP, BREAK && REPEAT
 
-- 🚀 I'm currently working with React.js, Node.js, MongoDB, CSS, JavaScript
+- 🚀 I'm currently working with React.js, Node.js, MongoDB, Html, CSS, JavaScript
 
 - 🤝 I'm looking to collaborate on Open Source Projects
 
