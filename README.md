@@ -1,14 +1,8 @@
 # Hi there, I'm Mahammad Irshad 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Python+Enthusiast;MERN+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Python+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahammadirshad07&color=00d4ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahammadirshad07?color=00d4ff&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahammadirshad07?color=00d4ff&style=for-the-badge" alt="Stars" />
-</p>
 
 ---
 
@@ -136,26 +130,6 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Agoda Clone
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=agoda-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/agoda-clone)
-
-### 🎯 Faculty Locator System  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=faculty-locator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/faculty-locator)
-
-### 🍔 Uber Eats UI Clone
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=uber-eats-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/uber-eats-clone)
-
-### 💻 Portfolio Website
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/portfolio-website)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -173,19 +147,18 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ## 💼 Professional Experience
 
-### 🔹 MERN Stack Developer Intern | BridgeonSolutions
+### 🔹 Full Stack Developer Intern | BridgeonSolutions
 **July 2025 - Present**
 - Building responsive web applications using React and Node.js
 - Collaborating with senior developers on client projects  
 - Learning industry best practices and modern development workflows
 
 ### 🔹 Freelance Web Developer
-**2024 - Present**
+**2025 - Present**
 - Created 10+ responsive websites for local businesses
 - Specialized in React frontend and Python/Django backends
 - Maintained 98% client satisfaction rate
 
 ---
 
-## 🎯 Current Focus & Goals
 
