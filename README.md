@@ -58,30 +58,6 @@ I'm a passionate **Full Stack Developer** and final-year **BCA student** from Ma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="50%" />
 </div>
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🌟 Agoda Clone
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=agoda-clone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/mahammadirshad07/agoda-clone)
-
-**Tech:** HTML5, CSS3, JavaScript, Bootstrap  
-A comprehensive travel booking platform with seamless UX for flights, hotels, and travel packages.
-
-### 🎯 Faculty Locator System
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=faculty-locator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/mahammadirshad07/faculty-locator)
-
-**Tech:** React, Node.js, MongoDB, Express  
-Modern web application for efficient faculty search and mapping with role-based access control.
-
-### 🍔 Uber Eats UI Clone
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=uber-eats-clone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/mahammadirshad07/uber-eats-clone)
-
-**Tech:** React, CSS3, JavaScript  
-Food delivery app interface with interactive components and mobile-first design.
-
-</div>
-
 ## 📈 GitHub Activity Graph
 
 <div align="center">
@@ -109,5 +85,4 @@ Food delivery app interface with interactive components and mobile-first design.
 - Specialized in React frontend and Python/Django backends
 - Maintained 98% client satisfaction rate
 
-## 📚 Currently Learning
 
