@@ -1,14 +1,8 @@
-# 🚀 Mahammad Irshad - Full Stack Developer Portfolio
+# 🚀 Mahammad Irshad - Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Python+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahammadirshad07&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahammadirshad07?color=58a6ff&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahammadirshad07?color=58a6ff&style=flat-square" alt="Stars" />
-</p>
 
 ## 👋 About Me
 
@@ -67,13 +61,13 @@ I'm a passionate **Full Stack Developer** and final-year **BCA student** from Ma
 ## 🏅 Achievements & Certifications
 
 - 🎯 **Gen AI Exchange Hackathon 2025** - Participant
-- 🚀 **BridgeonSolutions** - MERN Stack Developer Intern
+- 🚀 **BridgeonSolutions** - Full-Stack Developer Intern
 - 💻 **Full Stack Web Development** - Self-taught
 - 🌟 **Open Source Contributor** - Multiple projects
 
 ## 💼 Professional Experience
 
-### 🔹 MERN Stack Developer Intern | BridgeonSolutions
+### 🔹 Full Stack Developer Intern | BridgeonSolutions
 **July 2025 - Present**
 - Building responsive web applications using React and Node.js
 - Collaborating with senior developers on client projects
