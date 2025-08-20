@@ -1,8 +1,14 @@
 # Hi there, I'm Mahammad Irshad 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Python+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Python+Enthusiast;MERN+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahammadirshad07&color=00d4ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahammadirshad07?color=00d4ff&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mahammadirshad07?color=00d4ff&style=for-the-badge" alt="Stars" />
+</p>
 
 ---
 
@@ -78,13 +84,7 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 </tr>
 </table>
 
-### ⚒️ Frameworks ⚒️
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Django-Full_Stack-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Full Stack" />
-</p>
-
-### ⚒️ Maintenance and Operational Tools ⚒️
+### ⚒️ Development Tools ⚒️
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -92,32 +92,25 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
 
-### ⚒️ Operating Systems ⚒️
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
-
 ---
 
 ## ⚡ GitHub Stats ⚡
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mahammadirshad07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=7D8590" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
 
-## 🐍 My Contributions 🐍
+## 🐍 Contribution Graph 🐍
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=C9D1D9" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=C9D1D9&area=true&area_color=00D4FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -126,6 +119,33 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Detailed GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahammadirshad07&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahammadirshad07&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahammadirshad07&theme=tokyonight" alt="Most Commit Language" width="49%" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Agoda Clone
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=agoda-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/agoda-clone)
+
+### 🎯 Faculty Locator System  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mahammadirshad07&repo=faculty-locator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)](https://github.com/mahammadirshad07/faculty-locator)
+
 </div>
 
 ---
@@ -154,11 +174,27 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 - Learning industry best practices and modern development workflows
 
 ### 🔹 Freelance Web Developer
-**2025 - Present**
+**2024 - Present**
 - Created 10+ responsive websites for local businesses
 - Specialized in React frontend and Python/Django backends
 - Maintained 98% client satisfaction rate
 
 ---
 
+## 📈 Contribution Overview
 
+<div align="center">
+  <img src="https://github-contribution-graph.vercel.app/api/render?username=mahammadirshad07&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "The best error message is the one that never shows up." - Thomas Fuchs
+
+**⭐ Star my repositories if you find them interesting!**
+
+![Made with ❤️ in India](https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%2300d4ff)
+
+</div>
