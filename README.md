@@ -118,21 +118,30 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 - Maintained 98% client satisfaction rate
 
 ---
----
-
----
-
----
 
 ## ⚡ GitHub Stats ⚡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahammadirshad07&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahammadirshad07&theme=radical" alt="Github Streak" width="400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=radical" alt="GitHub Trophies" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=radical" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=dark)
 
