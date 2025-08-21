@@ -122,10 +122,6 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 ## ⚡ GitHub Stats ⚡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mahammadirshad07&theme=radical" alt="Github Streak" width="400" />
 </p>
 
@@ -143,8 +139,5 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ---
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=dark)
-
----
 
 
