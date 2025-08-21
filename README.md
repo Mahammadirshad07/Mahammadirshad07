@@ -122,30 +122,20 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ---
 
+---
+
 ## ⚡ GitHub Stats ⚡
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahammadirshad07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=7D8590" alt="GitHub Streak" width="49%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=dark&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Top Languages" width="50%" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=mahammadirshad07&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=dark)
 
-## 🐍 My Contributions 🐍
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=dark)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=C9D1D9&area=true&area_color=00D4FF" alt="Activity Graph" />
-</div>
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=dark)
 
 ---
 
-## 🏆 GitHub Trophies 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
