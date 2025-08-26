@@ -119,22 +119,28 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ---
 
-## ⚡ GitHub Stats ⚡
+<h2 align="center">🔥 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahammadirshad07&theme=radical" alt="Github Streak" width="400" />
+  <a href="https://github.com/mahammadirshad07">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/mahammadirshad07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadirshad07&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <a href="https://github.com/mahammadirshad07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=radical" alt="GitHub Trophies" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=radical" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
