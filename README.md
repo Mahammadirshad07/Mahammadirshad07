@@ -134,11 +134,7 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
   <a href="https://github.com/mahammadirshad07">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
   </a>
-  <a href="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahammadirshad07&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" width="100%" />
-  </a>
-</p>
-
+ 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
