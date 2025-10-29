@@ -120,7 +120,6 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 ---
 
 <h2 align="center">🔥 My GitHub Stats</h2>
-
 <p align="center">
   <a href="https://github.com/mahammadirshad07">
     <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
